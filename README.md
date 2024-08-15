@@ -24,3 +24,5 @@ SwiftUI Practices
 	•	Responsive Layout: Utilizes SwiftUI’s flexible layout system to create a responsive design that adapts to different screen sizes.
 	•	Custom Views: Implements reusable custom views for better code organization and separation of concerns.
 	•	Async Actions: Uses DispatchQueue.main.asyncAfter to handle timed actions in the game, such as resetting the game after a match.
+Demo
+https://github.com/user-attachments/assets/77f1e690-7d44-4481-814d-c8acd0187b7a
